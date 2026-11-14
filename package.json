@@ -1,0 +1,9 @@
+{
+  "name": "revisa-servidor",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Servidor da IA do app Revisa",
+  "main": "servidor.js",
+  "scripts": { "start": "node servidor.js" },
+  "engines": { "node": ">=18" }
+}
